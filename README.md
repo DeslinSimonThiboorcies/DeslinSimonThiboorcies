@@ -5,7 +5,6 @@
 </div>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<img align="right" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/ai.gif">
 
 ## 🙋‍♂️ About Me
 
@@ -26,7 +25,7 @@ class DeslinSimonThiboorcies:
             "JWT Authentication",
             "RBAC",
             "Repository Pattern",
-            "Service Layer"
+            "Service Layer",
         ]
 
         self.currently_learning = [
