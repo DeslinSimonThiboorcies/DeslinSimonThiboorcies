@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" width="380" src="assets/matrix-rain.svg"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🙋‍♂️ About Me
 
