@@ -5,7 +5,7 @@
 </div>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<img align="right" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/ai.gif">
+<img align="right" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/ai.gif">
 
 ## 🙋‍♂️ About Me
 
