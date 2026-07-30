@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Flask+%7C+FastAPI;REST+API+Development;SQLAlchemy+ORM;JWT+Authentication;Repository+Pattern;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ## 🙋‍♂️ About Me
 
 ```python
