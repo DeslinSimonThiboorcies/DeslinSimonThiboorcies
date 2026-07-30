@@ -81,9 +81,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeslinSimonThiboorcies&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeslinSimonThiboorcies&layout=compact&theme=tokyonight" />
+![GitHub Profile Stats](https://githubcard.com/DeslinSimonThiboorcies.svg)
 
 </div>
 
