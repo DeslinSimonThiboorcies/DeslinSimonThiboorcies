@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deslin%20Simon%20Thiboorcies&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%7C%20Flask%20%7C%20FastAPI&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Flask+%7C+FastAPI+%7C+SQLAlchemy+ORM;JWT+Auth+%7C+RBAC+%7C+Repository+Pattern;Building+Secure+REST+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
