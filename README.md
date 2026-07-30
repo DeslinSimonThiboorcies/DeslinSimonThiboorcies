@@ -5,8 +5,38 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Flask+%7C+FastAPI;REST+API+Development;SQLAlchemy+ORM;JWT+Authentication;Repository+Pattern;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+## 🙋‍♂️ About Me
+
+```python
+class DeslinSimonThiboorcies:
+    def __init__(self):
+        self.name = "Deslin Simon Thiboorcies"
+        self.location = "India"
+        self.degree = "B.Com in Banking"
+        self.role = "Python Backend Developer"
+        self.stack = [
+            "Python", "Flask", "FastAPI",
+            "SQLAlchemy ORM", "MySQL", "PostgreSQL",
+            "pgAdmin", "Git", "GitHub"
+        ]
+        self.architecture = [
+            "JWT Authentication", "RBAC",
+            "Repository Pattern", "Service Layer"
+        ]
+        self.currently_learning = ["Machine Learning"]
+        self.fun_fact = "Started in banking & finance, transitioned into backend development through self-learning"
+
+    def motto(self):
+        return "Build clean APIs, one endpoint at a time."
+
+
+me = DeslinSimonThiboorcies()
+print(me.motto())
+```
+
+<br clear="right"/>
 
 ## 🧰 Tech Stack
 
