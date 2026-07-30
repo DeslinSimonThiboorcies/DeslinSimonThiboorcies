@@ -6,38 +6,7 @@
 
 </div>
 
-<img align="right" width="380" src="assets/matrix-rain.svg"/>
-
-## 🙋‍♂️ About Me
-
-```python
-class DeslinSimonThiboorcies:
-    def __init__(self):
-        self.name = "Deslin Simon Thiboorcies"
-        self.location = "India"
-        self.degree = "B.Com in Banking"
-        self.role = "Python Backend Developer"
-        self.stack = [
-            "Python", "Flask", "FastAPI",
-            "SQLAlchemy ORM", "MySQL", "PostgreSQL",
-            "pgAdmin", "Git", "GitHub"
-        ]
-        self.architecture = [
-            "JWT Authentication", "RBAC",
-            "Repository Pattern", "Service Layer"
-        ]
-        self.currently_learning = ["Machine Learning"]
-        self.fun_fact = "Started in banking & finance, transitioned into backend development through self-learning"
-
-    def motto(self):
-        return "Build clean APIs, one endpoint at a time."
-
-
-me = DeslinSimonThiboorcies()
-print(me.motto())
-```
-
-<br clear="right"/>
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 🧰 Tech Stack
 
