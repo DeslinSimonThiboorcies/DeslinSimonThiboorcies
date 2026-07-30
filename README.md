@@ -17,8 +17,7 @@ class DeslinSimonThiboorcies:
         self.role = "Python Backend Developer"
 
         self.stack = [
-            "Python", "Flask", "FastAPI",
-            "SQLAlchemy ORM", "MySQL", "PostgreSQL",
+            "Python", "MySQL",
             "pgAdmin", "Git", "GitHub"
         ]
 
