@@ -170,8 +170,6 @@ Machine Learning
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeslinSimonThiboorcies&color=70a5fd&style=flat-square)
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
