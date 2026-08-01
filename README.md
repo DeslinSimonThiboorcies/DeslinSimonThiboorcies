@@ -116,18 +116,6 @@ print(me.motto())
 
 </details>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **E-Commerce Backend API** | Flask · MySQL · SQLAlchemy · JWT | Secure REST API with JWT-based authentication, order & product management, and relational data modeling via SQLAlchemy ORM |
-| **School Management API** | Flask · SQLAlchemy · MySQL | Backend system for managing students, staff, and academic records with role-based access control |
-| **Office Management API** | Flask · FastAPI · PostgreSQL | Service-layer architecture handling employee, department, and task management with repository-pattern data access |
-
-</div>
-
 ## 🏅 Achievements
 
 <div align="center">
